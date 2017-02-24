@@ -1,0 +1,26 @@
+/* CSS Document */
+body{
+	margin:0px auto;
+	padding:0px;
+	font-size:14px;
+	font-family:"微软雅黑";
+	width:100%;
+}
+
+*{
+	margin:0px auto;
+	padding:0px;
+}
+
+li{
+	list-style:none;
+}
+
+a{
+	text-decoration:none;
+	color:#000;
+}
+a:hover{
+	text-decoration:underline;
+	color:#4B8EDA;
+}
